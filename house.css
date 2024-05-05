@@ -1,0 +1,15 @@
+.float-right {
+    float: right;
+      }
+  body{
+      border: 1px solid black;
+      padding: 5px;
+      margin: 10px;
+      
+  }
+  img{
+      width: 100px;
+      length: 170px;    
+  }
+  .centered-text {
+  text-align: center:}
